@@ -12,10 +12,10 @@ function StudentCard({ name, rollNumber, course }) {
 
 function StudentCards() {
   const students = [
-    { id: 1, name: "ARYAN", rollNumber: "23BCS10135", course: "CS" },
-    { id: 2, name: "Shashwat", rollNumber: "1", course: "IT" },
-    { id: 3, name: "ADITYA", rollNumber: "2", course: "FS" },
-    { id: 4, name: "Raj", rollNumber: "3", course: "ECE" },
+    { id: 1, name: "Suhan", rollNumber: "23BCS13955", course: "CS" },
+    { id: 2, name: "Kumar", rollNumber: "1", course: "IT" },
+    { id: 3, name: "Singh", rollNumber: "2", course: "FS" },
+    { id: 4, name: "Kittu", rollNumber: "3", course: "ECE" },
   ];
 
   return (
